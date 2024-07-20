@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:yahyaensi/config-server.git
+[submodule "config-client"]
+	path = config-client
+	url = git@github.com:yahyaensi/config-client.git
+[submodule "config-repo"]
+	path = config-repo
+	url = git@github.com:yahyaensi/config-repo.git
